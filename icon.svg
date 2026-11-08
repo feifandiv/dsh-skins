@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Skins">
+  <defs><clipPath id="r"><rect x="4" y="4" width="56" height="56" rx="14"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect x="4" y="4" width="56" height="56" fill="#faf9f5"/>
+    <path d="M4 60 L60 4 L60 60 Z" fill="#181818"/>
+    <circle cx="44" cy="20" r="6" fill="#c96442"/>
+    <circle cx="20" cy="44" r="6" fill="#d97757"/>
+  </g>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="none" stroke="#1f1b1224"/>
+</svg>

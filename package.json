@@ -1,0 +1,55 @@
+{
+  "name": "@fanfan4589/dsh-skins",
+  "version": "1.0.0",
+  "description": "Two global skins for DeepSeek Harness (ink charcoal and warm paper) with a Settings → General switcher. Colours only, no feature changes.",
+  "type": "module",
+  "license": "MIT",
+  "author": "feifandiv",
+  "homepage": "https://github.com/feifandiv/dsh-skins#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feifandiv/dsh-skins.git"
+  },
+  "bugs": {
+    "url": "https://github.com/feifandiv/dsh-skins/issues"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "skin",
+    "theme",
+    "settings",
+    "dark-mode",
+    "paper"
+  ],
+  "engines": {
+    "dsh": ">=0.2.1-rc.1"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "icon.svg"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": []
+    }
+  }
+}
