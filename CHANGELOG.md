@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0
+
+- Brand row de-emphasis: the deepseek-harness wordmark in the sidebar header now renders dimmed (34% opacity, subtly greyed) and returns to full clarity when the logo row is hovered. CSS-only, attribute-scoped to the active skin, no slot owners replaced — the collapsed-rail whale toggle keeps its shipped look.
+
 ## 1.0.0
 
 First public release.

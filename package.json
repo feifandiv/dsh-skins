@@ -1,6 +1,6 @@
 {
   "name": "@fanfan4589/dsh-skins",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Two global skins for DeepSeek Harness (ink charcoal and warm paper) with a Settings → General switcher. Colours only, no feature changes.",
   "type": "module",
   "license": "MIT",
