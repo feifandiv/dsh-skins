@@ -6,6 +6,12 @@
 
 [English](README.md)
 
+> **定位｜克制的小功能补丁。** 只做这一件事，不改 DSH 主体：不替换内置槽位与布局、不改内核行为、不碰其他插件的数据。升级 DSH 一般无需跟着改；关掉或卸载即回到官方状态。
+
+![两套皮肤与切换器说明图：左为「暖纸」浅色，右为「墨暖」深色，底部是 设置 → 通用 → 皮肤 的切换行](docs/preview-overview.png)
+
+> 上图：左「暖纸」浅色 · 右「墨暖」深色 · 底部是 **设置 → 通用 → 皮肤** 的切换行（墨暖 / 暖纸 / 关闭）。只换配色，布局、字号与功能都不变。
+
 | 暖纸（默认，浅色） | 墨暖（深色） |
 | --- | --- |
 | ![暖纸](https://raw.githubusercontent.com/feifandiv/dsh-skins/main/docs/paper-light.png) | ![墨暖](https://raw.githubusercontent.com/feifandiv/dsh-skins/main/docs/ink-dark.png) |

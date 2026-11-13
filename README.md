@@ -6,6 +6,12 @@ A skin switcher **inside Settings**, not the sidebar: two global palettes for De
 
 [中文](README.zh.md)
 
+> **Scope — a small, restrained patch.** It does one thing and leaves the rest of DSH alone: no built-in slot or layout replaced, no core behaviour touched, no other plugin's data read or written. Upgrading DSH normally needs no change here; disabling or uninstalling restores the stock UI.
+
+![Both skins side by side: Paper (light) on the left, Ink (dark) on the right, with the Settings → General switcher underneath](docs/preview-overview.png)
+
+> Above: Paper (light) on the left, Ink (dark) on the right, and the **Settings → General → Skin** row underneath (Ink / Paper / Off). Colours only — layout, type scale and features are untouched.
+
 | Paper (default, light) | Ink (dark) |
 | --- | --- |
 | ![Paper](https://raw.githubusercontent.com/feifandiv/dsh-skins/main/docs/paper-light.png) | ![Ink](https://raw.githubusercontent.com/feifandiv/dsh-skins/main/docs/ink-dark.png) |
