@@ -16,6 +16,8 @@ A skin switcher **inside Settings**, not the sidebar: two global palettes for De
 | --- | --- |
 | ![Paper](https://raw.githubusercontent.com/feifandiv/dsh-skins/main/docs/paper-light.png) | ![Ink](https://raw.githubusercontent.com/feifandiv/dsh-skins/main/docs/ink-dark.png) |
 
+> Both panels are an **illustrative mock-up with made-up data**: no real workspace, session or file appears. They exist only to compare the two palettes.
+
 ## Usage
 
 **Settings → General → Skin** (between “Language” and “Appearance”):

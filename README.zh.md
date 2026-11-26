@@ -16,6 +16,8 @@
 | --- | --- |
 | ![暖纸](https://raw.githubusercontent.com/feifandiv/dsh-skins/main/docs/paper-light.png) | ![墨暖](https://raw.githubusercontent.com/feifandiv/dsh-skins/main/docs/ink-dark.png) |
 
+> 上面两栏是**示意界面（虚拟数据）**：不包含任何真实工作区、会话或文件，只用来对比两套配色。
+
 ## 使用
 
 入口在 **设置 → 通用 → 皮肤**（在「语言」下面、「外观」上面）：
